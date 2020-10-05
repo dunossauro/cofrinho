@@ -1,2 +1,12 @@
-# cofrinho
-Projeto destinado a fazer o parser/exibição unificada das campanhas de financiamento
+# Cofrinho
+
+O objetivo do cofrinho é fazer o parser e exibição de todas as campanhas de financiamento coletivo da Live de Python de maneira unificada.
+
+Parsers a implementar:
+| Implementado | Canal | Link | Formato |
+| --- | --- | --- | --- |
+| [ ] | Apoia.se | apoia.se/livedepython | XML |
+| [ ] | Picpay assianturas | https://picpay.me/dunossauro | XML/API |
+| [ ] | Picpay comum | https://picpay.me/livedepython | ?? |
+| [ ] | Membros do youtube | youtube.com/eduardomendes | ?? |
+| [ ] | Subs do twitch | twitch.tv/livedepython | API |
