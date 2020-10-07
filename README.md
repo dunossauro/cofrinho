@@ -5,8 +5,8 @@ O objetivo do cofrinho é fazer o parser e exibição de todas as campanhas de f
 Parsers a implementar:
 | Implementado | Canal | Link | Formato |
 | --- | --- | --- | --- |
-| [ ] | Apoia.se | apoia.se/livedepython | XML |
-| [ ] | Picpay assianturas | https://picpay.me/dunossauro | XML/API |
+| [ ] | Apoia.se | apoia.se/livedepython | CSV |
+| [ ] | Picpay assianturas | https://picpay.me/dunossauro | CSV/API |
 | [ ] | Picpay comum | https://picpay.me/livedepython | ?? |
 | [ ] | Membros do youtube | youtube.com/eduardomendes | ?? |
 | [ ] | Subs do twitch | twitch.tv/livedepython | API |
